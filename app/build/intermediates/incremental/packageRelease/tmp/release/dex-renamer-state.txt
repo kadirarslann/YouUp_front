@@ -1,0 +1,4 @@
+#Fri Jan 28 23:36:03 EET 2022
+base.0=C\:\\Users\\kadir\\Desktop\\codes\\web\\shopping\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
